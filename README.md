@@ -12,6 +12,7 @@ Se aplicó el patrón Page Object, separando los localizadores y métodos de int
 
 ## Cómo ejecutar las pruebas
 - Activar un entorno virtual antes de instalar Selenium.
-- Usar la consola para instalar Selenium con pip install selenium. 
+- Usar la consola para instalar Selenium con pip install selenium.
+- Instalar pytest con pip install pytest.
 - Actualizar la URL en data.py.
 - Correr las pruebas usando Run en Pycharm.
